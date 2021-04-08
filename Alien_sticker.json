@@ -1,0 +1,29 @@
+{
+  
+"Iklan": [
+    {
+      "pengaturan_iklan" : "4",
+      "interval_intertitial": 4,
+      
+      "intertitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+     
+      "status":"0",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
+
+      "deskripsi_update":"Please update the application to the latest version to get additional features.",
+      "version_json": 1,
+      
+      "startappid":"123456789",
+    
+
+      "fan_inter":"981545408591412_999151030164183",
+      "fan_banner_native":"981545408591412_2709037092508893",
+
+      "more_app":"https://play.google.com/store/apps/developer?id=AlienDroid",
+       "hpk":"isi dengan kata kunci iklan dengan nilai iklan tinggi, pisahkan dengan koma misal asuransi, kesehatan"
+
+
+    }
+  ]
+}
