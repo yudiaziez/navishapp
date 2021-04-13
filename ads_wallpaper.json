@@ -28,7 +28,6 @@
 
   "primary_ads": "ADMOB",
   "list_ads": [
-    "MOPUB",
     "ADMOB",
     "FAN"
   ]
