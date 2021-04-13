@@ -10,11 +10,11 @@
   "admob_interstitial_id": "ca-app-pub-6027254787204230/7989324942",
   "admob_native_id": "ca-app-pub-6027254787204230/4944359209",
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "Home",
+  "admob_hpk_2": "Fashion",
+  "admob_hpk_3": "Game",
+  "admob_hpk_4": "Handphone",
+  "admob_hpk_5": "Trading",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -24,7 +24,7 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
