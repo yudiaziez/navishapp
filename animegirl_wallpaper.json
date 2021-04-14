@@ -4,17 +4,17 @@
     "Girl Anime","Girl Minimalist","Game Girl","Game Girlz"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-3505691292304190",
-  "app_id": "ca-app-pub-3505691292304190~5245092203",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "pub-6027254787204230",
+  "app_id": "ca-app-pub-6027254787204230~3376250371",
+  "admob_banner_id": "ca-app-pub-6027254787204230/8437005361",
+  "admob_interstitial_id": "ca-app-pub-6027254787204230/5810842020",
+  "admob_native_id": "ca-app-pub-6027254787204230/6660055114",
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "Home",
+  "admob_hpk_2": "Game",
+  "admob_hpk_3": "entertainment",
+  "admob_hpk_4": "Music",
+  "admob_hpk_5": "network",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -24,11 +24,10 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
-    "MOPUB",
     "ADMOB",
     "FAN"
   ]
