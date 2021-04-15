@@ -2,7 +2,7 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "1",
+      "pengaturan_iklan" : "3",
       "interval_intertitial": 4,
       
       "intertitial_admob":"ca-app-pub-6027254787204230/3548297301",
@@ -14,7 +14,7 @@
       "deskripsi_update":"Please update the application to the latest version to get additional features.",
       "version_json": 1,
       
-      "startappid":"123456789",
+      "startappid":"203285312",
     
 
       "fan_inter":"YOUR_PLACEMENT_ID",
