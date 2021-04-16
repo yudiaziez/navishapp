@@ -3,7 +3,7 @@
 "Iklan": [
     {
       "pengaturan_iklan" : "1",
-      "interval_intertitial": 4,
+      "interval_intertitial": 2,
       
       "intertitial_admob":"ca-app-pub-6027254787204230/7116502065",
       "native_admob":"ca-app-pub-6027254787204230/9321167031",
@@ -21,7 +21,7 @@
       "fan_banner_native":"YOUR_PLACEMENT_ID",
 
       "more_app":"https://play.google.com/store/apps/dev?id=5673223097784726589",
-       "hpk":"isi dengan kata kunci iklan dengan nilai iklan tinggi, pisahkan dengan koma misal asuransi, kesehatan"
+       "hpk":"game,car,traveling,drawing"
 
 
     }
