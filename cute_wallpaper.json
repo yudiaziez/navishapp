@@ -11,10 +11,10 @@
   "admob_native_id": "ca-app-pub-6027254787204230/3432090693",
 
   "admob_hpk_1": "Home",
-  "admob_hpk_2": "Video",
+  "admob_hpk_2": "education",
   "admob_hpk_3": "Game",
-  "admob_hpk_4": "trading",
-  "admob_hpk_5": "drawing",
+  "admob_hpk_4": "travel",
+  "admob_hpk_5": "travel",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -24,7 +24,7 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 3,
 
   "primary_ads": "ADMOB",
   "list_ads": [
