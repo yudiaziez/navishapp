@@ -4,11 +4,11 @@
     "Kakashi"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6027254787204230",
-  "app_id": "ca-app-pub-6027254787204230~5815873239",
-  "admob_banner_id": "ca-app-pub-6027254787204230/6005761686",
-  "admob_interstitial_id": "ca-app-pub-6027254787204230/7989324942",
-  "admob_native_id": "ca-app-pub-6027254787204230/4944359209",
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "investation",
   "admob_hpk_2": "education",
@@ -26,9 +26,9 @@
 
   "interstitial_inverval": 10,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
-    "ADMOB",
+    "FAN",
     "FAN"
   ]
 }
