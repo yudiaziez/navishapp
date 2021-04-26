@@ -2,11 +2,11 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "3",
+      "pengaturan_iklan" : "1",
       "interval_intertitial": 2,
       
-      "intertitial_admob":"ca-app-pub-6027254787204230/7116502065",
-      "native_admob":"ca-app-pub-6027254787204230/9321167031",
+      "intertitial_admob":"ca-app-pub-6027254787204230/1992818264",
+      "native_admob":"ca-app-pub-6027254787204230/9122522767",
      
       "status":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
