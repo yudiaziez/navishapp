@@ -4,11 +4,11 @@
     "Cute wallpaper","Cute Phone","Aesthetic Wallpaper","Cute Cat"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-6027254787204230",
+  "app_id": "ca-app-pub-6027254787204230~9262407033",
+  "admob_banner_id": "ca-app-pub-6027254787204230/3590978576",
+  "admob_interstitial_id": "ca-app-pub-6027254787204230/8651733563",
+  "admob_native_id": "ca-app-pub-6027254787204230/7053573252",
 
   "admob_hpk_1": "Home",
   "admob_hpk_2": "education",
