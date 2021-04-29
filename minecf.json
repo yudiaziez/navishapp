@@ -133,6 +133,20 @@
       "map_url":"https://djiprojecttech.com/minicf/Map/hungergame/HungerGames.zip",
       "view_map":"https://api.mcpedl.com/storage/submissions/97293/images/hunger-games-autoreset_3.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/hungergame/1.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Boat Racing",
+      "map_url":"https://djiprojecttech.com/minicf/Map/BoatRacing/BoatRacing.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/11282/images/boat-racing_7.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/hungergame/1.html"
+    },
+    {
+      "id":5,
+      "nama_map":"Boat Racing",
+      "map_url":"https://djiprojecttech.com/minicf/Map/Eastereggs/Eastereggs.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/11209/images/easter-eggs-2_2.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/Eastereggs/1.html"
     }
   ]
 }
