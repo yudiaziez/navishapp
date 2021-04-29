@@ -143,17 +143,24 @@
     },
     {
       "id":5,
-      "nama_map":"Boat Racing",
+      "nama_map":"Easter Eggs 2",
       "map_url":"https://djiprojecttech.com/minicf/Map/Eastereggs/Eastereggs.zip",
       "view_map":"https://my.mcpedl.com/storage/worlds/11209/images/easter-eggs-2_2.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/Eastereggs/1.html"
     },
     {
       "id":6,
-      "nama_map":"Boat Racing",
+      "nama_map":"Fun MOBA",
       "map_url":"https://djiprojecttech.com/minicf/Map/Moba/Moba.zip",
       "view_map":"https://my.mcpedl.com/storage/worlds/12127/images/funmoba-pvp-moba-style-pvp_2.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/Moba/1.html"
+    },
+    {
+      "id":7,
+      "nama_map":"Kill House Zombies | Multiplayer",
+      "map_url":"https://djiprojecttech.com/minicf/Map/KillHouseMP/KillHouseMP.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/4711/images/kill-house-zombies--survival_4.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/KillHouseMP/1.html"
     }
   ]
 }
