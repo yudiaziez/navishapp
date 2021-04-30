@@ -136,6 +136,15 @@
       "addR_url":"https://djiprojecttech.com/minicf/Addon/Wildcraft/3DcombatR.mcpack",
       "view_add":"https://api.mcpedl.com/storage/submissions/97780/images/wild-craft_10.jpeg",
       "des_add":"https://djiprojecttech.com/minicf/Addon/Wildcraft/1.html"
+    },
+    {
+      "id":5,
+      "nama_add":"More Clothes Addon",
+      "add_url":"https://djiprojecttech.com/minicf/Addon/Clothes/Clothes.zip",
+      "addB_url":"https://djiprojecttech.com/minicf/Addon/Clothes/ClothesB.mcpack",
+      "addR_url":"https://djiprojecttech.com/minicf/Addon/Clothes/ClothesR.mcpack",
+      "view_add":"https://api.mcpedl.com/storage/submissions/93550/images/more-clothes-addon_11.jpeg",
+      "des_add":"https://djiprojecttech.com/minicf/Addon/Clothes/1.html"
     }
   ],
   "Maps":
