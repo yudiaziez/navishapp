@@ -109,6 +109,15 @@
       "addR_url":"https://djiprojecttech.com/minicf/Addon/MoreWandsaddon/MoreWandsaddonR.mcpack",
       "view_add":"https://api.mcpedl.com/storage/submissions/56458/100/more-wands-addon_1-520x245.png",
       "des_add":"https://djiprojecttech.com/minicf/Addon/MoreWandsaddon/1.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Super Zombies Addon",
+      "add_url":"https://djiprojecttech.com/minicf/Addon/SuperZombies/SuperZombies.zip",
+      "addB_url":"https://djiprojecttech.com/minicf/Addon/SuperZombies/SuperZombiesB.mcpack",
+      "addR_url":"https://djiprojecttech.com/minicf/Addon/SuperZombies/SuperZombiesR.mcpack",
+      "view_add":"https://api.mcpedl.com/storage/submissions/98492/images/super-zombie-addon_4.jpeg",
+      "des_add":"https://djiprojecttech.com/minicf/Addon/SuperZombies/1.html"
     }
   ],
   "Maps":
