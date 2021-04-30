@@ -4,11 +4,11 @@
     "Girl Anime","Girl Minimalist","Game Girl","Game Girlz"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-6027254787204230",
+  "app_id": "ca-app-pub-6027254787204230~3376250371",
+  "admob_banner_id": "ca-app-pub-6027254787204230/6055314217",
+  "admob_interstitial_id": "ca-app-pub-6027254787204230/8601586502",
+  "admob_native_id": "ca-app-pub-6027254787204230/2504927925",
 
   "admob_hpk_1": "Home",
   "admob_hpk_2": "Game",
@@ -26,9 +26,9 @@
 
   "interstitial_inverval": 10,
 
-  "primary_ads": "FAN",
+  "primary_ads": "ADMOB",
   "list_ads": [
-    "FAN",
+    "ADMOB",
     "FAN"
   ]
 }
