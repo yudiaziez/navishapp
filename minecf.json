@@ -189,6 +189,13 @@
       "map_url":"https://djiprojecttech.com/minicf/Map/BedWars/BedWars.zip",
       "view_map":"https://my.mcpedl.com/storage/worlds/4082/images/bedwars-mapminigame_11.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/BedWars/1.html"
+    },
+    
+      "id":12,
+      "nama_map":"escape",
+      "map_url":"https://djiprojecttech.com/minicf/Map/escape/escape.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/11596/images/escape_11.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/Bescape/1.html"
     }
   ]
 }
