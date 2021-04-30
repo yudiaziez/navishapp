@@ -161,6 +161,27 @@
       "map_url":"https://djiprojecttech.com/minicf/Map/KillHouseMP/KillHouseMP.zip",
       "view_map":"https://my.mcpedl.com/storage/worlds/4711/images/kill-house-zombies--survival_4.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/KillHouseMP/1.html"
+    },
+    {
+      "id":8,
+      "nama_map":"Super Zombie Run",
+      "map_url":"https://djiprojecttech.com/minicf/Map/SuperZombieRun/SuperZombieRun.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/5119/images/super-zombie-run-v20_2.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/SuperZombieRun/1.html"
+    },
+    {
+      "id":9,
+      "nama_map":"Find The Buttons!",
+      "map_url":"https://djiprojecttech.com/minicf/Map/FindTheButtons/FindTheButtons.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/7037/images/find-the-buttons_5.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/FindTheButtons/1.html"
+    },
+    {
+      "id":10,
+      "nama_map":"Among Us",
+      "map_url":"https://djiprojecttech.com/minicf/Map/AmongUs/AmongUs.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/11659/images/among-us-the-airship-in-minecraft-bedrock-work-in-progress_2.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/AmongUss/1.html"
     }
   ]
 }
