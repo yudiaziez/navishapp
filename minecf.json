@@ -163,6 +163,15 @@
       "addR_url":"https://djiprojecttech.com/minicf/Addon/CombatGear/CombatGearR.mcpack",
       "view_add":"https://my.mcpedl.com/storage/addons/549/images/combat-gears-addon_2.png",
       "des_add":"https://djiprojecttech.com/minicf/Addon/CombatGear/1.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Elemental Armors",
+      "add_url":"https://djiprojecttech.com/minicf/Addon/ElementalArmors/ElementalArmors.zip",
+      "addB_url":"https://djiprojecttech.com/minicf/Addon/ElementalArmors/ElementalArmorsB.mcpack",
+      "addR_url":"https://djiprojecttech.com/minicf/Addon/ElementalArmors/ElementalArmorsR.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/8592/images/elemental-armors-addon-v10_2.png",
+      "des_add":"https://djiprojecttech.com/minicf/Addon/ElementalArmors/1.html"
     }
   ],
   "Maps":
