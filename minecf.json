@@ -182,6 +182,13 @@
       "map_url":"https://djiprojecttech.com/minicf/Map/AmongUs/AmongUs.zip",
       "view_map":"https://my.mcpedl.com/storage/worlds/11659/images/among-us-the-airship-in-minecraft-bedrock-work-in-progress_2.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/AmongUs/1.html"
+    },
+    {
+      "id":11,
+      "nama_map":"Bed Wars",
+      "map_url":"https://djiprojecttech.com/minicf/Map/BedWars/BedWars.zip",
+      "view_map":"https://my.mcpedl.com/storage/worlds/4082/images/bedwars-mapminigame_11.png",
+      "des_map":"https://djiprojecttech.com/minicf/Map/BedWars/1.html"
     }
   ]
 }
