@@ -1,0 +1,105 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "5",
+      "startappid": "201669628",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID": "3896203",
+      "unity_inter": "video",
+      "unity_banner": "bannerid",
+      "packagename": "mak.ad.wallpaperalienx"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Nature",
+      "title":"Waterfall",
+      "image":"https://gambarsasuke.wanavisha.my.id/Gambar/Itachi/sasuke10.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "River",
+      "image": "https://gambarsasuke.wanavisha.my.id/Gambar/Itachi/sasuke27.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Nature",
+      "title":"Mountain",
+      "image":"https://gambarsasuke.wanavisha.my.id/Gambar/Itachi/sasuke19.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Animal",
+      "title":"Cute Cat",
+      "image":"https://gambarsasuke.wanavisha.my.id/Gambar/Itachi/sasuke40.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Animal",
+      "title":"Dog",
+      "image":"https://gambarsasuke.wanavisha.my.id/Gambar/Itachi/sasuke55.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Car",
+      "title":"Super Car",
+      "image":"https://1.bp.blogspot.com/-Z28YaQAk7pE/X7nUhmLN91I/AAAAAAAAAUI/xviZzJi5r8ghNuJ7OthxJl6LvWuezTyjACLcBGAsYHQ/s1980/sasuke55.jpg"
+    }
+  ]
+}
