@@ -20,13 +20,15 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "21079593777",
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
 
   "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
-    "STARTAPP"
+    "FAN"
   ]
 }
