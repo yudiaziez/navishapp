@@ -1,14 +1,15 @@
 {
-  "username": "ibang23",
+  "username": "KinNaja",
   "album": [
-    "Cat", "Green Nature"
+    "Kakashi"
   ],
   "init_jumlah_photo": 100,
   "pub_id": "pub-6027254787204230",
   "app_id": "ca-app-pub-6027254787204230~5815873239",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner_id": "ca-app-pub-6027254787204230/5885135279",
+  "admob_interstitial_id": "ca-app-pub-6027254787204230/9632808591",
+  "admob_native_id": "ca-app-pub-6027254787204230/3258971932",
+
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -24,7 +25,7 @@
 
   "interstitial_inverval": 10,
 
-  "primary_ads": "STARTAPP",
+  "primary_ads": "ADMOB",
   "list_ads": [
     "STARTAPP",
     "FAN"
