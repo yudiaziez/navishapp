@@ -11,11 +11,11 @@
   "admob_native_id": "ca-app-pub-6027254787204230/3258971932",
 
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "technology",
+  "admob_hpk_2": "health",
+  "admob_hpk_3": "insurance",
+  "admob_hpk_4": "car",
+  "admob_hpk_5": "flight",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
