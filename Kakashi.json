@@ -27,6 +27,7 @@
 
   "primary_ads": "ADMOB",
   "list_ads": [
+    "ADMOB",
     "FAN"
   ]
 }
