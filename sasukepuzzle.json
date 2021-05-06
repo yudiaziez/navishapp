@@ -1,0 +1,60 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "packagename": "com.navishaapp.ninjaultimate.puzzlex"
+
+    }
+  ],
+
+  "Wallpaper":
+  [
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-xhV7r-HnJEo/YJRcPCPK_8I/AAAAAAAAAyQ/VCQwVqgg1AIskh1QQkEDut8I2yrJMHdeQCLcBGAsYHQ/s1900/Sasuke.jpg"
+    },
+    {
+      "title": "Uchiha Sasuke Lover",
+      "image": "https://1.bp.blogspot.com/-vRLin-N22EQ/YJRcRgqk9bI/AAAAAAAAAyw/_jrdfaYglPgPSM3tgkKilzQ3NFibZFrDQCLcBGAsYHQ/s1900/sasuke10.jpg"
+    },
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-m4A1Z2Ws-Q8/YJRcRNNNlDI/AAAAAAAAAys/zMt904X0rGgEeiDVCtHP7TPRv_n2ZabaQCLcBGAsYHQ/s1900/Sasuke9.jpg"
+    },
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-1MQ50pnBTwU/YJRcREkuZtI/AAAAAAAAAyo/ufHOmYf_zCo_y67RNMo6-ZKIIWyjU95ywCLcBGAsYHQ/s1900/Sasuke8.jpg"
+    }
+  ,
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-wUUvOx4uTbM/YJRcPILoBUI/AAAAAAAAAyU/DfgbKZ6FdesfLbrDVcOlCXwfc_0sTEnswCLcBGAsYHQ/s1900/Sasuke07.jpg"
+    },
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-cfvEn_bTa1E/YJRcQreLRGI/AAAAAAAAAyk/30RRzmlj5go8QO6-5YYQN56cefNWvFhGQCLcBGAsYHQ/s1900/Sasuke6.jpg"
+    },
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-V39MIVQlLkA/YJRcQY5OE6I/AAAAAAAAAyg/qX0ZaLtEV6Qf_XvQsMFwULWCa9wCTe6XgCLcBGAsYHQ/s1900/Sasuke5.jpg"
+    },
+    {
+      "title":"Uchiha Sasuke Lover",
+      "image":"https://1.bp.blogspot.com/-1J7Aki-recs/YJRcR492-lI/AAAAAAAAAy0/6u3nrL_a9xQXj1RpybjDIsmpk2__qFMIQCLcBGAsYHQ/s1900/sasuke4.jpg"
+    }
+	
+  ]
+}
