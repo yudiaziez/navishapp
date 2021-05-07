@@ -796,6 +796,13 @@
       "map_url":"https://djiprojecttech.com/minicf/Map/escape/escape.zip",
       "view_map":"https://my.mcpedl.com/storage/worlds/11596/images/escape_11.png",
       "des_map":"https://djiprojecttech.com/minicf/Map/escape/1.html"
+    },
+    {
+      "id":13,
+      "nama_map":"Escape",
+      "map_url":"https://djiprojecttech.com/minicf/Map/Naruto/Naruto.zip",
+      "view_map":"http://wonderfulengineering.com/wp-content/uploads/2016/01/Naruto-Wallpaper-20.jpg",
+      "des_map":"https://djiprojecttech.com/minicf/Map/Naruto/1.html"
     }
   ]
 }
