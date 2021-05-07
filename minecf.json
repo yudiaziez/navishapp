@@ -720,14 +720,24 @@
       "des_add":"https://djiprojecttech.com/minicf/Addon/vehicle/1.html"
     },
     {
-      "id":9,
+      "id":10,
       "nama_add":"One Piece",
       "add_url":"https://djiprojecttech.com/minicf/Map/one/one.zip",
       "addB_url":"https://djiprojecttech.com/minicf/Map/one/oneB.mcpack",
       "addR_url":"https://djiprojecttech.com/minicf/Map/one/oneR.mcpack",
       "view_add":"https://www.kaorinusantara.or.id/wp-content/uploads/2019/03/one-piece-1.jpg",
       "des_add":"https://djiprojecttech.com/minicf/Addon/vehicle/1.html"
+    },
+    {
+      "id":11,
+      "nama_add":"One Piece",
+      "add_url":"https://djiprojecttech.com/minicf/Map/Demon/Demon.zip",
+      "addB_url":"https://djiprojecttech.com/minicf/Map/Demon/DemonB.mcpack",
+      "addR_url":"https://djiprojecttech.com/minicf/Map/one/DemonR.mcpack",
+      "view_add":"https://i.pinimg.com/originals/6a/a0/67/6aa067f15995d61bd0f4e17a4a7527df.jpg",
+      "des_add":"https://djiprojecttech.com/minicf/Addon/vehicle/1.html"
     }
+	  
   ],
   "Maps":
   [
