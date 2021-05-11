@@ -2,10 +2,10 @@
   "More":
   [
     {
-      "id":1,
-      "nama_skin":"Batman",
-      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+      id":1,
+      "judul":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     },
     {
       "id":2,
@@ -24,9 +24,9 @@
   [
     {
       "id":1,
-      "nama_skin":"Acnologia",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/Acnologia.png",
-      "view_skin":"https://lh3.googleusercontent.com/3z2S5OJvH427avrvgpaBVceeAaQPxKT0NlfIn0n6VuRak5_ntvM9KWsbz5s4PnO_ucwud_6oOYSHMuI-uK9xFLv3H5ofn6cIIgk"
+      "nama_skin":"Batman",
+      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
+      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"k"
     },
     {
       "id":2,
