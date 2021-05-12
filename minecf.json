@@ -23,7 +23,7 @@
  
   "Skin":
   [
-    { 
+    {
       "id":1,
       "nama_skin":"Acnologia",
       "skin_url":"https://lh3.googleusercontent.com/TtX3n5OHaYTkf9eSfWE_j3ZB0bTnpZl7lc84Rj639WQWphNreKRAs3RWjhWSEV_CnttSnFGvtazftOLMLImr",
@@ -32,60 +32,60 @@
     {
       "id":2,
       "nama_skin":"Aizawa",
-      "skin_url":"http://djiprojecttech.com/minicf/Skin/Install/Aizawa.png",
-      "view_skin":"http://djiprojecttech.com/minicf/Skin/View/Aizawa.png"
+      "skin_url":"https://lh3.googleusercontent.com/r7YXpQlIl3l92ytIzzUROtEHtifye-0fQT5zIUmQFS1qph1nxQgfH_nLBYWeIhDP-GZsLA2AXVoHLPTsfE-QuQ",
+      "view_skin":"https://lh3.googleusercontent.com/YzzyjpSSXsBOSSgvHzjR0LcT3UZmg7KeraC-c_gDo4-fGhgEG0CB2Mbdl1FCa_Q9hEaenNQjAd3CWtC5HkZr"
     },
     {
       "id":3,
       "nama_skin":"Ash",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/Ash.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/Ash.png"
+      "skin_url":"https://lh3.googleusercontent.com/X3AAsJZf0YylSFgWN5A7jpj7S-PK1p19zQFeO6eBXi4BpIxgS277yHNtolaoiGx2oUyjiPmFdRyQas8b1a754w",
+      "view_skin":"https://lh3.googleusercontent.com/QJzD0uCI0Ib3wkubX-ukGhfj2ivUBVg9yguLknVkkmak1dvARfSfC99z_keW7fu5GDPqhLZF65ZfUiHiH0vgVe8"
     },
 
     {
       "id":4,
       "nama_skin":"Asta",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/Asta.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/Asta.png"
+      "skin_url":"https://lh3.googleusercontent.com/LivlKJz6vBvIrKwkKwPL-HICDio7z3509ae35dSAeIn-eblaO7an8UBKzdmiyEwN_7jjpLsiIxvRo92enN0hLw",
+      "view_skin":"https://lh3.googleusercontent.com/owbTSmMRLK_7LUjJ6eh0bRHFbTFgUw_xYmU3SL73I9hpJ0IYuwrQ7gE1t_yGd_0AcDpQj9Qv4MYO1_jjoJizH9o"
     },
     {
       "id":5,
-      "nama_skin":"AstroBoy",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/AstroBoy.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/AstroBoy.png"
+      "nama_skin":"Astro Boy",
+      "skin_url":"https://lh3.googleusercontent.com/mBWcAxbRmrcUTzVFvSrABIcO_cFs_pBQQGdwpX1Ut0HFyurE5mgRyLcQerOAJ81xKiy9ctBusVhZ3snUA3qH",
+      "view_skin":"https://lh3.googleusercontent.com/F1ICOHZ_PkE8Ug53uiJvslrzqv0pds1Poq5st3jkZeBG18bkofpYs7ffSI46NKW1RONk7k2lCR6ngdl_QOpv"
     },
     {
       "id":6,
-      "nama_skin":"BakugoKatsuki",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/BakugoKatsuki.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/BakugoKatsuki.png"
+      "nama_skin":"Bakugo Katsuki",
+      "skin_url":"https://lh3.googleusercontent.com/Ze8WPQPJ0254TnMeuFkY-9Gw1xUtRxy8pkFeqJUVDAO2oJDKn4XyhOiLNyJ_Z5J_HX5Jm5WR-jVuEyFmjtDmKQ",
+      "view_skin":"https://lh3.googleusercontent.com/4fwuR_CWNZEX-L-eMp46P6beqWa5Gz8hVXzh5ucm5R-rq38pw4JDCDZi5RdQcRmedYjSGFe2ROkFsyICNUYzIQ"
     },
 
 
     {
      "id":7,
-      "nama_skin":"BorutoUzumaki",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/BorutoUzumaki.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/BorutoUzumaki.png"
+      "nama_skin":"Boruto Uzumaki",
+      "skin_url":"https://lh3.googleusercontent.com/-7mlQ-WmlhcGyT0O__ZeJ4n5MBp7jCIZw3kRU3riSBo4IIbM8J4M3H9uniJMcwUJVOVwmFCJLPEZcAzhfwrEHcA",
+      "view_skin":"https://lh3.googleusercontent.com/-7mlQ-WmlhcGyT0O__ZeJ4n5MBp7jCIZw3kRU3riSBo4IIbM8J4M3H9uniJMcwUJVOVwmFCJLPEZcAzhfwrEHcA"
     },
     {
       "id":8,
-      "nama_skin":"BrunoBucciarati",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/BrunoBucciarati.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/BrunoBucciarati.png"
+      "nama_skin":"Bruno Bucciarati",
+      "skin_url":"https://lh3.googleusercontent.com/__E9g4sERuXp6fpNGER9XrsY0yMbbbyfiDRIkTF4dy4AxO4wmgCGdQKT7anoBL0VktdeiWz0JT_-OEQHAqnMuA",
+      "view_skin":"https://lh3.googleusercontent.com/WnJysf8_-0qL5iULJaNYnLENJKLlydySrMnTFLVbMR1Zi52KyFnrPACieAbhUA1AwPbezr0f81-PjfMhj8PYiA"
     },
     {
       "id":9,
       "nama_skin":"Dante",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/Dante.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/Dante.png"
+      "skin_url":"https://lh3.googleusercontent.com/K4flqYYWp07-R27NtEaPNWnD8ofMV6VNipp-J_k9uqJJVPYQhNaJ-ZDiopIe3o7b70Tg9G7TGSRKZ4dDuvVlL7U",
+      "view_skin":"https://lh3.googleusercontent.com/PAWGZrLZ6EkOitI_18sFQUw7PbHSOPyWMJS17XdkbhlNqjTYQQylKGkomBah7rwoIXieVSN4aG-gYBxYKLbe6Cd1PRId-XlK8vbz"
     },
 
     {
       "id":10,
-      "nama_skin":"DeathTheKid",
-      "skin_url":"https://djiprojecttech.com/minicf/Skin/Install/DeathTheKid.png",
-      "view_skin":"https://djiprojecttech.com/minicf/Skin/View/DeathTheKid.png"
+      "nama_skin":"Death The Kid",
+      "skin_url":"https://lh3.googleusercontent.com/YLDKTjl_8jCIH7uR31GTd34VW8fAYy2br1SQPwKRmDQGnMrME4y_VxorizWe1NYIFZ_ow-Cid_jFzHhTCD8ZP6IjnM-mx6KNkw",
+      "view_skin":"https://lh3.googleusercontent.com/4dhqAicBwyYniAi_AZvBABrmzu0NGM9E3rjv7bX_aIpLxccf9TYtI07rj7grpa4ALDPsWRoF89ivZSS3DExusx1e0NpqC_5aTA"
     },
 	{
       "id":11,
