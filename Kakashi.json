@@ -18,14 +18,14 @@
   "admob_hpk_5": "flight",
 
   "fan_banner_id": "176366467705288_176366707705264",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
+  "fan_interstitial_id": "176366467705288_176377747704160",
+  "fan_native_id": "176366467705288_176377994370802",
 
   "startapp_app_id": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
     "ADMOB",
     "FAN"
