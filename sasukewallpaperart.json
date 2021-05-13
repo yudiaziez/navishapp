@@ -16,7 +16,7 @@
   "admob_hpk_4": "health",
   "admob_hpk_5": "flight",
 
-  "fan_banner_id": "",
+  "fan_banner_id": "325066142393681_325067042393591",
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
@@ -24,7 +24,7 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
  "primary_ads": "ADMOB",
   "list_ads": [
