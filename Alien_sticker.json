@@ -2,7 +2,7 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "1",
+      "pengaturan_iklan" : "2",
       "interval_intertitial": 5,
       
       "intertitial_admob":"ca-app-pub-6027254787204230/1992818264",
@@ -18,7 +18,7 @@
     
 
       "fan_inter":"YOUR_PLACEMENT_ID",
-      "fan_banner_native":"YOUR_PLACEMENT_ID",
+      "fan_banner_native":"1211700055944170_1211700619277447",
 
       "more_app":"https://play.google.com/store/apps/dev?id=5673223097784726589",
        "hpk":"game,car,traveling,drawing"
