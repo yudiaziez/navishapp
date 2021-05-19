@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "select_ads": "FACEBOOK",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-6027254787204230/9974603269",
-      "admob_bannerid": "ca-app-pub-6027254787204230/4913848275",
-      "admob_openid": "ca-app-pub-6027254787204230/6306342064",
+      "admob_interid": "ca-app-pub-6027254787204230/6988808276",
+      "admob_bannerid": "ca-app-pub-6027254787204230/8301889940",
+      "admob_openid": "ca-app-pub-6027254787204230/6683069409",
       "startappid": "201669628",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "2302720076529624_2302721126529519",
