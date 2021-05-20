@@ -1,9 +1,9 @@
 {
-  "username": "ibang23",
+  "username": "navishaapp",
   "album": [
-    "Cat", "Green Nature"
+    "Uchiha Itachi"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "pub_id": "",
   "app_id": "",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -24,7 +24,7 @@
 
   "interstitial_inverval": 10,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
