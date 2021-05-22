@@ -1,9 +1,9 @@
 {
-  "username": "ibang23",
+  "username": "KinNaja",
   "album": [
-    "Cat", "Green Nature"
+    "Sasuke wall","Wall Sasuke Art","Sasuke Color","Sharingan X","Uchiha Clan","Live Sasuke"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "pub_id": "",
   "app_id": "",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -24,9 +24,9 @@
 
   "interstitial_inverval": 10,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
-    "ADMOB",
+    
     "STARTAPP",
     "FAN"
   ]
