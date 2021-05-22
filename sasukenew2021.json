@@ -10,24 +10,24 @@
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "home",
+  "admob_hpk_2": "technology",
+  "admob_hpk_3": "car",
+  "admob_hpk_4": "health",
+  "admob_hpk_5": "flight",
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
+  "fan_banner_id": "808013886772734_808014086772714",
+  "fan_interstitial_id": "808013886772734_811231289784327",
+  "fan_native_id": "808013886772734_811230399784416",
 
   "startapp_app_id": "21077",
 
   "interstitial_inverval": 10,
 
-  "primary_ads": "FAN",
+  "primary_ads": "ADMOB",
   "list_ads": [
     
-    "STARTAPP",
-    "FAN"
+    "FAN",
+    "ADMOB"
   ]
 }
