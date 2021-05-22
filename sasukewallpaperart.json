@@ -6,9 +6,9 @@
   "init_jumlah_photo": 100,
   "pub_id": "pub-6027254787204230",
   "app_id": "ca-app-pub-6027254787204230~7904089682",
-  "admob_banner_id": "ca-app-pub-6027254787204230/8558226610",
-  "admob_interstitial_id": "ca-app-pub-6027254787204230/2469468594",
-  "admob_native_id": "ca-app-pub-6027254787204230/1532996723",
+  "admob_banner_id": "ca-app-pub-6027254787204230/3333005429",
+  "admob_interstitial_id": "ca-app-pub-6027254787204230/6119978533",
+  "admob_native_id": "ca-app-pub-6027254787204230/5767597078",
 
   "admob_hpk_1": "home",
   "admob_hpk_2": "technology",
@@ -26,7 +26,7 @@
 
   "interstitial_inverval": 5,
 
- "primary_ads": "FAN",
+ "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
     "FAN"
