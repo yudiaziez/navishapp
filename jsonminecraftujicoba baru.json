@@ -1,4 +1,26 @@
 {
+  "Ads":
+  [
+    {
+      "status":"1",
+      "link":"http://",
+      "pengaturan_iklan":"2",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":1,
+      "fan_inter":"OUR_PLACEMENT_ID",
+      "fan_banner":"OUR_PLACEMENT_ID",
+      "fan_native":"OUR_PLACEMENT_ID",
+      "startappid":1234567,
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+],
   "More":
   [
     {
