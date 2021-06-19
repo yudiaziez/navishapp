@@ -101,24 +101,60 @@
   ],
   "Addons":
   [
+    [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "nama_skin":"Batman",
+      "skin_url":"https://aliendro.id/wp-content/skin/batman.png",
+      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+    },
+    {
+      "id":2,
+      "nama_skin":"Captain Marvel",
+      "skin_url":"https://aliendro.id/wp-content/skin/cmarvel.png",
+      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+    },
+    {
+      "id":3,
+      "nama_skin":"Ironman",
+      "skin_url":"https://aliendro.id/wp-content/skin/iron.png",
+      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+    },
+
+    {
+      "id":4,
+      "nama_skin":"Spiderman",
+      "skin_url":"https://aliendro.id/wp-content/skin/spider.png",
+      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
     }
   ],
   "Maps":
   [
+    [
     {
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "nama_skin":"Batman",
+      "skin_url":"https://aliendro.id/wp-content/skin/batman.png",
+      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+    },
+    {
+      "id":2,
+      "nama_skin":"Captain Marvel",
+      "skin_url":"https://aliendro.id/wp-content/skin/cmarvel.png",
+      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+    },
+    {
+      "id":3,
+      "nama_skin":"Ironman",
+      "skin_url":"https://aliendro.id/wp-content/skin/iron.png",
+      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+    },
+
+    {
+      "id":4,
+      "nama_skin":"Spiderman",
+      "skin_url":"https://aliendro.id/wp-content/skin/spider.png",
+      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
     }
   ]
 }
