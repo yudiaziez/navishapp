@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewardid": "ca-app-pub-3940256099942544/5224354917",
+      "startappid": "201669628",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "mopub_reward": "",
+      "applovin_banner": "",
+      "applovin_inter": "",
+      "applovin_reward": "",
+      "interval": 5,
+      "coin_reward": 1000
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "name_category": "River",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Mountain",
+      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Beach",
+      "image": "file:///android_asset/image/beach.jpeg"
+
+    },
+    {
+      "name_category": "Waterfall",
+      "image": "https://images.pexels.com/photos/2743287/pexels-photo-2743287.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "River",
+      "title":"Sasuke",
+      "image":"https://1.bp.blogspot.com/-mvfgqnDAmvc/X_E735F7s-I/AAAAAAAAAtk/KnaN3T71LG8ozgb2YFaFmU0ehyY2_EpJgCLcBGAsYHQ/s908/NicePng_sasuke-shippuden-png_3316960.jpg",
+      "coin":150
+    },
+    {
+      "id": 2,
+      "name_category": "River",
+      "title": "Water Near Mountains",
+      "image": "https://1.bp.blogspot.com/-b2Mbm98VWHM/X_E74jf6liI/AAAAAAAAAtw/sRSxIHTqp-EyfR22Oc7C5QkuMhX-LZ2QwCLcBGAsYHQ/s1920/sasuke%2B%252811%2529.jpg",
+      "coin":300
+    },
+    {
+      "id":3,
+      "name_category": "River",
+      "title":"Snow Covered",
+      "image":"https://1.bp.blogspot.com/-Hk_hpn45h_I/YNYGQyp8KYI/AAAAAAAAA0k/mLqBeuz8CMcEniqcg3okE_cC25z1mOE4ACLcBGAsYHQ/s2340/8.jpg",
+      "coin":0
+    },
+    {
+      "id":4,
+      "name_category": "Mountain",
+      "title":"Green Grass",
+      "image":"https://1.bp.blogspot.com/-mGXSm5tvLOY/YNYGkzHzqwI/AAAAAAAAA04/klfW0_SYv6AKLBaGgk_CzkZ2sMcSZU2LgCLcBGAsYHQ/s1920/SasukeART%2B19.jpg",
+      "coin":0
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Mountain",
+      "title":"Empty Highway",
+      "image":"https://1.bp.blogspot.com/-ZtV4mat6X80/YNYGlMEOlaI/AAAAAAAAA08/vy8uWe_C8AkWW5H5d_mHEn3QglbpcS1uQCLcBGAsYHQ/s1920/SasukeART%2B21.jpg",
+      "coin":200
+    },
+    {
+      "id":6,
+      "name_category": "Beach",
+      "title":"Aerial",
+      "image":"file:///android_asset/image/beach.jpeg",
+      "coin":100
+    },
+    {
+      "id":7,
+      "name_category": "Beach",
+      "title":"Palm Trees",
+      "image":"file:///android_asset/image/palm.jpeg",
+      "coin":100
+    },
+    {
+      "id":8,
+      "name_category": "Waterfall",
+      "title":"Waterfalls Rain",
+      "image":"https://images.pexels.com/photos/1620372/pexels-photo-1620372.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":100
+    }
+  ]
+}
