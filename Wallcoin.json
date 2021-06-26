@@ -105,8 +105,8 @@
       "id":6,
       "name_category": "Beach",
       "title":"Aerial",
-      "image":"file:///android_asset/image/beach.jpeg",
-      "coin":100
+      "image":"https://i.pinimg.com/564x/da/2c/6b/da2c6bf81c6683fb0672e2f6dd04f728.jpg",
+      "coin":10000
     },
     {
       "id":7,
