@@ -42,17 +42,17 @@
 
   "Categories": [
     {
-      "name_category": "River",
-      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      "name_category": "Kakashi Hatake",
+      "image": "https://1.bp.blogspot.com/-zgXW6869rhw/YNmmgorB7MI/AAAAAAAAANo/x5w7UuI-vpEDKujzEwVfd7NlikzN1tmngCLcBGAsYHQ/s2340/kakashi23.jpg"
 
     },
     {
-      "name_category": "Mountain",
-      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      "name_category": "Sasuke",
+      "image": "https://1.bp.blogspot.com/-1w6TPlTW_3U/YNmmhhrUgXI/AAAAAAAAAN8/uuL86QosbqAykG64C08umF9k0tuhZtY6ACLcBGAsYHQ/s2340/sasuke.jpg"
 
     },
     {
-      "name_category": "Beach",
+      "name_category": "Naruto",
       "image": "file:///android_asset/image/beach.jpeg"
 
     },
@@ -67,38 +67,38 @@
   [
     {
       "id":1,
-      "name_category": "River",
+      "name_category": "Kakashi Hatake",
       "title":"Sasuke",
-      "image":"https://1.bp.blogspot.com/-mvfgqnDAmvc/X_E735F7s-I/AAAAAAAAAtk/KnaN3T71LG8ozgb2YFaFmU0ehyY2_EpJgCLcBGAsYHQ/s908/NicePng_sasuke-shippuden-png_3316960.jpg",
+      "image":"https://1.bp.blogspot.com/-zgXW6869rhw/YNmmgorB7MI/AAAAAAAAANo/x5w7UuI-vpEDKujzEwVfd7NlikzN1tmngCLcBGAsYHQ/s2340/kakashi23.jpg",
       "coin":150
     },
     {
       "id": 2,
-      "name_category": "River",
+      "name_category": "Kakashi Hatake",
       "title": "Water Near Mountains",
-      "image": "https://1.bp.blogspot.com/-b2Mbm98VWHM/X_E74jf6liI/AAAAAAAAAtw/sRSxIHTqp-EyfR22Oc7C5QkuMhX-LZ2QwCLcBGAsYHQ/s1920/sasuke%2B%252811%2529.jpg",
-      "coin":3000
+      "image": "https://1.bp.blogspot.com/-_AEUOca9zXw/YNmmhXLvi7I/AAAAAAAAAN0/Ar-qCbfT5m4_KiQJM5u9vHWaTiOZqP3cgCLcBGAsYHQ/s2340/kakashi55.jpg",
+      "coin":30
     },
     {
       "id":3,
-      "name_category": "River",
+      "name_category": "Kakashi Hatake",
       "title":"Snow Covered",
-      "image":"https://1.bp.blogspot.com/-Hk_hpn45h_I/YNYGQyp8KYI/AAAAAAAAA0k/mLqBeuz8CMcEniqcg3okE_cC25z1mOE4ACLcBGAsYHQ/s2340/8.jpg",
+      "image":"https://1.bp.blogspot.com/-9rb9Dt1ok8Y/YNmmgqb_giI/AAAAAAAAANw/HR1WnsiwNjQ5WPi4zRBXgWDl5yHLsZEMwCLcBGAsYHQ/s2340/Kakashi-pink.jpg",
       "coin":0
     },
     {
       "id":4,
-      "name_category": "Mountain",
+      "name_category": "Sasuke",
       "title":"Green Grass",
-      "image":"https://1.bp.blogspot.com/-mGXSm5tvLOY/YNYGkzHzqwI/AAAAAAAAA04/klfW0_SYv6AKLBaGgk_CzkZ2sMcSZU2LgCLcBGAsYHQ/s1920/SasukeART%2B19.jpg",
+      "image":"https://1.bp.blogspot.com/-1w6TPlTW_3U/YNmmhhrUgXI/AAAAAAAAAN8/uuL86QosbqAykG64C08umF9k0tuhZtY6ACLcBGAsYHQ/s2340/sasuke.jpg",
       "coin":0
     }
   ,
     {
       "id":5,
-      "name_category": "Mountain",
+      "name_category": "Naruto",
       "title":"Empty Highway",
-      "image":"https://1.bp.blogspot.com/-ZtV4mat6X80/YNYGlMEOlaI/AAAAAAAAA08/vy8uWe_C8AkWW5H5d_mHEn3QglbpcS1uQCLcBGAsYHQ/s1920/SasukeART%2B21.jpg",
+      "image":"https://1.bp.blogspot.com/-YVgvUO61ut8/YNmmhgux5aI/AAAAAAAAAN4/qeqnzZkPLBAyVpYSRZvnMeYNZpA59YSBwCLcBGAsYHQ/s2340/naruto.jpg",
       "coin":200
     },
     {
@@ -112,7 +112,7 @@
       "id":7,
       "name_category": "Beach",
       "title":"Palm Trees",
-      "image":"file:///android_asset/image/palm.jpeg",
+      "image":"https://1.bp.blogspot.com/-KmvhojgeBHk/YNmmgtZ8IDI/AAAAAAAAANs/-6yPOq4RZKMVbxOl4D_y92CW3jHRhfPCgCLcBGAsYHQ/s2340/kakashi.jpg",
       "coin":100
     },
     {
