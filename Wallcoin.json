@@ -9,15 +9,15 @@
       "admob_openid": "ca-app-pub-3940256099942544/1033173712",
       "admob_rewardid": "ca-app-pub-3940256099942544/5224354917",
       "startappid": "201669628",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_inter": "740810869940787_785598815461992",
+      "fan_banner_native": "740810869940787_740811449940729",
       "mopub_banner": "",
       "mopub_inter": "",
       "mopub_reward": "",
       "applovin_banner": "123456",
       "applovin_inter": "123456",
       "applovin_reward": "",
-      "interval": 5,
+      "interval": 2,
       "coin_reward": 1000
     }
   ],
