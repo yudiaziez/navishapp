@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "STARTAPP",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
@@ -93,7 +93,7 @@
     },
     {
       "id":6,
-      "name_category": "sharingan",
+      "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-zsnmDHAJVZ0/YN1UdrDi_ZI/AAAAAAAAAPo/0mPf8BsEgAkabpT5wec1wb4ohw49OHDxgCLcBGAsYHQ/s2340/a6.png",
       "coin":100
@@ -164,7 +164,7 @@
     },
     {
       "id":16,
-      "name_category": "sharingan",
+      "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-kQUaHCB6hvk/YN1Uf8DRGqI/AAAAAAAAAQM/ePPINRo1CCkCuWrU2BY27xohGQDEh98XQCLcBGAsYHQ/s2340/c2.png",
       "coin":100
@@ -235,7 +235,7 @@
     },
     {
       "id":26,
-      "name_category": "sharingan",
+      "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-CoJyOZ3R64Y/YN1UiYaduII/AAAAAAAAAQ0/GVrhRAkKZu8mElgYL5DT4gTCuOR5ZIwugCLcBGAsYHQ/s2340/d6.png",
       "coin":100
@@ -306,7 +306,7 @@
     },
     {
       "id":36,
-      "name_category": "sharingan",
+      "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/--hjU9Ds3Ocw/YN1UmkfgN4I/AAAAAAAAAR4/OIQdjvuRMDALLMmTDTLX_GVe2gKAKt7_QCLcBGAsYHQ/s2340/gold8.png",
       "coin":100
@@ -377,7 +377,7 @@
     },
     {
       "id":46,
-      "name_category": "sharingan",
+      "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-LPglFVbKBJw/YN1Up_2tfpI/AAAAAAAAASg/jwiWlUj3KIwxKwk9hMUkBi4Hrz9kHfEmQCLcBGAsYHQ/s2340/green9.png",
       "coin":100
@@ -448,7 +448,7 @@
     },
     {
       "id":56,
-      "name_category": "sharingan",
+      "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-Thu-_dtU8MA/YN1UaA-cyvI/AAAAAAAAAOs/cV4Ea8ZunfkZsLKPKWlF24T_c-i4JYw5gCLcBGAsYHQ/s2340/Red1.png",
       "coin":100
