@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "FACEBOOK",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
@@ -16,7 +16,7 @@
       "mopub_reward": "",
       "applovin_banner": "123456",
       "applovin_inter": "123456",
-      "applovin_reward": "123456",
+      "applovin_reward": "",
       "interval": 5,
       "coin_reward": 1000
     }
