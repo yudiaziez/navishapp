@@ -18,7 +18,7 @@
       "applovin_inter": "",
       "applovin_reward": "",
       "interval": 5,
-      "coin_reward": 1000
+      "coin_reward": 5000
     }
   ],
   "More":
@@ -42,17 +42,17 @@
 
   "Categories": [
     {
-      "name_category": "Kakashi Hatake",
-      "image": "https://1.bp.blogspot.com/-zgXW6869rhw/YNmmgorB7MI/AAAAAAAAANo/x5w7UuI-vpEDKujzEwVfd7NlikzN1tmngCLcBGAsYHQ/s2340/kakashi23.jpg"
+      "name_category": "Sharingan",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
 
     },
     {
-      "name_category": "Sasuke",
-      "image": "https://1.bp.blogspot.com/-1w6TPlTW_3U/YNmmhhrUgXI/AAAAAAAAAN8/uuL86QosbqAykG64C08umF9k0tuhZtY6ACLcBGAsYHQ/s2340/sasuke.jpg"
+      "name_category": "Wallpaper",
+      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
 
     },
     {
-      "name_category": "Naruto",
+      "name_category": "Beach",
       "image": "file:///android_asset/image/beach.jpeg"
 
     },
@@ -67,59 +67,144 @@
   [
     {
       "id":1,
-      "name_category": "Kakashi Hatake",
-      "title":"Sasuke",
-      "image":"https://1.bp.blogspot.com/-zgXW6869rhw/YNmmgorB7MI/AAAAAAAAANo/x5w7UuI-vpEDKujzEwVfd7NlikzN1tmngCLcBGAsYHQ/s2340/kakashi23.jpg",
-      "coin":150
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-vVSCou92X90/YN1UcdEXA7I/AAAAAAAAAPQ/FjRDrQSamqMp81rnfGakjexjMuDQg3UxwCLcBGAsYHQ/s2340/a1.png",
+      "coin":100
     },
     {
       "id": 2,
-      "name_category": "Kakashi Hatake",
-      "title": "Water Near Mountains",
-      "image": "https://1.bp.blogspot.com/-_AEUOca9zXw/YNmmhXLvi7I/AAAAAAAAAN0/Ar-qCbfT5m4_KiQJM5u9vHWaTiOZqP3cgCLcBGAsYHQ/s2340/kakashi55.jpg",
-      "coin":30
+      "name_category": "Sharingan",
+      "title": "Sharingan",
+      "image": "https://1.bp.blogspot.com/-n6jdtZ1zsjk/YN1UchOil3I/AAAAAAAAAPU/yDQJgr42r7oB_NppEQK0tILItZAmE0higCLcBGAsYHQ/s2340/a2.png",
+      "coin":100
     },
     {
       "id":3,
-      "name_category": "Kakashi Hatake",
-      "title":"Snow Covered",
-      "image":"https://1.bp.blogspot.com/-9rb9Dt1ok8Y/YNmmgqb_giI/AAAAAAAAANw/HR1WnsiwNjQ5WPi4zRBXgWDl5yHLsZEMwCLcBGAsYHQ/s2340/Kakashi-pink.jpg",
-      "coin":0
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-E18y4KweWFk/YN1UcrbhJTI/AAAAAAAAAPY/PRoCOvlComMLu_QUjrMxRDeDWmjulAMugCLcBGAsYHQ/s2340/a3.png",
+      "coin":100
     },
     {
       "id":4,
-      "name_category": "Sasuke",
-      "title":"Green Grass",
-      "image":"https://1.bp.blogspot.com/-1w6TPlTW_3U/YNmmhhrUgXI/AAAAAAAAAN8/uuL86QosbqAykG64C08umF9k0tuhZtY6ACLcBGAsYHQ/s2340/sasuke.jpg",
-      "coin":0
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-m4vKp_7oRkc/YN1Ucx5lgkI/AAAAAAAAAPc/YFHSQH3gJZEaMy3KpKyoUON4KULbXfY7gCLcBGAsYHQ/s2340/a4.png",
+      "coin":100
     }
   ,
     {
       "id":5,
-      "name_category": "Naruto",
-      "title":"Empty Highway",
-      "image":"https://1.bp.blogspot.com/-YVgvUO61ut8/YNmmhgux5aI/AAAAAAAAAN4/qeqnzZkPLBAyVpYSRZvnMeYNZpA59YSBwCLcBGAsYHQ/s2340/naruto.jpg",
-      "coin":200
+      "name_category": "Sharingan",
+      "title":"SHaringan",
+      "image":"https://1.bp.blogspot.com/-c7h9UNC1wbA/YN1UdayyzUI/AAAAAAAAAPg/nfnrZ3zkI3gl8HcG11qp8vfaJgUwB_rEgCLcBGAsYHQ/s2340/a5.png",
+      "coin":100
     },
     {
       "id":6,
-      "name_category": "Beach",
-      "title":"Aerial",
-      "image":"https://1.bp.blogspot.com/-0kczmMDhZmk/YNyV4WMiKMI/AAAAAAAAAOk/VQhbzegN6KskLtMqSgsPRMjfTeGpw99swCLcBGAsYHQ/s2340/a1.png",
+      "name_category": "sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-zsnmDHAJVZ0/YN1UdrDi_ZI/AAAAAAAAAPo/0mPf8BsEgAkabpT5wec1wb4ohw49OHDxgCLcBGAsYHQ/s2340/a6.png",
       "coin":100
     },
     {
       "id":7,
-      "name_category": "Beach",
-      "title":"Palm Trees",
-      "image":"https://1.bp.blogspot.com/-KmvhojgeBHk/YNmmgtZ8IDI/AAAAAAAAANs/-6yPOq4RZKMVbxOl4D_y92CW3jHRhfPCgCLcBGAsYHQ/s2340/kakashi.jpg",
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-viMs4B9qboM/YN1Udgdod2I/AAAAAAAAAPk/RXwEOBi5ykglmZs4gllzIEMVxov7MNg8gCLcBGAsYHQ/s2340/a7.png",
       "coin":100
     },
     {
       "id":8,
-      "name_category": "Waterfall",
-      "title":"Waterfalls Rain",
-      "image":"https://1.bp.blogspot.com/-wZXbmbTLJ64/YNyHsan9euI/AAAAAAAAAOc/4BYnR_kCDGcGytfJTIb1G9KtZL0u2eO-wCLcBGAsYHQ/s2340/Red1.png",
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-TFZJTJbMBpI/YN1UeX1bJJI/AAAAAAAAAPs/Yh27eONPeWstxcR6eX2GRVfysgnpHAeMQCLcBGAsYHQ/s2340/b1.png",
+      "coin":100
+    },
+    {
+      "id":9,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-Y036X8hsQXY/YN1UeVeeEiI/AAAAAAAAAPw/qVqP9RWra98OS-_sBoyBrpEi4oFCMeI8QCLcBGAsYHQ/s2340/b2.png",
+      "coin":100
+    },
+    {
+      "id":10,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-BMHEhJoIzrs/YN1UetXkMzI/AAAAAAAAAP0/d_MYvnVH4nsWwtJicvl5XRtDPvRLt5pxACLcBGAsYHQ/s2340/b3.png",
+      "coin":100
+    },
+    {
+      "id":11,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-bkdzxvp3WOE/YN1Ue-9SGDI/AAAAAAAAAP8/qFW9SfnHiTs_JoC8LkUni0J0U8MVdFfTACLcBGAsYHQ/s2340/b4.png",
+      "coin":100
+    },
+    {
+      "id": 12,
+      "name_category": "Sharingan",
+      "title": "Sharingan",
+      "image": "https://1.bp.blogspot.com/-vfjuBxJQORI/YN1Ue9FPihI/AAAAAAAAAP4/6V3RpbCtYu4JmbDed7yX4ycMILtODMjWQCLcBGAsYHQ/s2340/b5.png",
+      "coin":100
+    },
+    {
+      "id":13,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-0Mi_7TQxz8k/YN1UfOAK8cI/AAAAAAAAAQA/wNODCa1RLVYjb0BjZnT01V_djY_06SSCACLcBGAsYHQ/s2340/b6.png",
+      "coin":100
+    },
+    {
+      "id":14,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-knSU86EdyUY/YN1UfhKUwfI/AAAAAAAAAQI/2qA_z0r_yesWhqZ4uc3L9TDsNxlIoS9iACLcBGAsYHQ/s2340/b7.png",
+      "coin":100
+    }
+  ,
+    {
+      "id":15,
+      "name_category": "Sharingan",
+      "title":"SHaringan",
+      "image":"https://1.bp.blogspot.com/-myUgcpiccJA/YN1UfvmNMSI/AAAAAAAAAQE/WqNfI5vM6CIUkzNH7hyLZEVyOl4ug2KSQCLcBGAsYHQ/s2340/c1.png",
+      "coin":100
+    },
+    {
+      "id":16,
+      "name_category": "sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-kQUaHCB6hvk/YN1Uf8DRGqI/AAAAAAAAAQM/ePPINRo1CCkCuWrU2BY27xohGQDEh98XQCLcBGAsYHQ/s2340/c2.png",
+      "coin":100
+    },
+    {
+      "id":17,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-FfirmpKb5Vo/YN1UgcQ5ZtI/AAAAAAAAAQQ/RMDQO50XZ14FhVgiarQ69qjbwbD8a6foQCLcBGAsYHQ/s2340/c3.png",
+      "coin":100
+    },
+    {
+      "id":18,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-CMhBa5DxbGA/YN1UgtDTPhI/AAAAAAAAAQU/2nU-GtljdoQshmnxQ1q8zCQMZ-CTXujKQCLcBGAsYHQ/s2340/c4.png",
+      "coin":100
+    },
+    {
+      "id":19,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-COCAfKoGqzQ/YN1Ug1zlu6I/AAAAAAAAAQY/4IkOZ40h9XIYXeLwN_B_Bmu4xNTI1HsBACLcBGAsYHQ/s2340/c5.png",
+      "coin":100
+    },
+    {
+      "id":20,
+      "name_category": "Sharingan",
+      "title":"Sharingan",
+      "image":"https://1.bp.blogspot.com/-ilvY39rpW2c/YN1UhAfMZhI/AAAAAAAAAQc/BKBicHl16tIzYkv6X58q1nU2SjkjwbxTgCLcBGAsYHQ/s2340/c6.png",
       "coin":100
     }
   ]
