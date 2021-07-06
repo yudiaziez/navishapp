@@ -4,9 +4,9 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"ADMOB",
-      "select_backup_ads":"FACEBOOK",
-      "backup_mode":"1",
+      "select_ads":"FACEBOOK",
+      "select_backup_ads":"MOPUB",
+      "backup_mode":"0",
       "admob_openid":"ca-app-pub-3940256099942544/1033173712",
       "admob_nativeid":"ca-app-pub-3940256099942544/2247696110",
       "admob_interid":"ca-app-pub-3940256099942544/1033173712",
