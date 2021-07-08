@@ -21,7 +21,11 @@
   "fan_native_id": "808013886772734_811230399784416",
 
   "startapp_app_id": "21077",
-
+  
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  
   "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
