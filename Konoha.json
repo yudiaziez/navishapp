@@ -4,7 +4,7 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"FACEBOOK",
+      "select_ads":"ADMOB",
       "select_backup_ads":"MOPUB",
       "backup_mode":"0",
       "admob_openid":"ca-app-pub-3940256099942544/1033173712",
@@ -28,21 +28,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Grils Skin",
+      "image":"https://lh3.googleusercontent.com/azNMJ5f_g2D4Mr6QeROJtES5kT1eacNMx64ICAoQRGvdliCPXvGWGHpYMoQwzOQLg1wF_bMXq2CCzNXBR4aMYQ",
+      "link":"https://play.google.com/store/apps/details?id=com.navishaapp.skinsforgirl_aesthetic"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Anime Hero Skins Male",
+      "image":"https://lh3.googleusercontent.com/3migXEJsgmv41TO83l1-eld9xZjI6HztWuppcKUkRBo6Ej78sn8UmzWYTK1UuAGz1y7PNiVCe5Zo6DYzD1L7dWY",
+      "link":"https://play.google.com/store/apps/details?id=com.navishaapp.anime_male_skinsforminecraft"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Skin Uchiha Sasuke and Itachi",
+      "image":"https://lh3.googleusercontent.com/NzBY2jlhUs8Om1SPRVJmKS82puHYfwY6iKzwXf8Ait5-6I06V8L7akJ0luBhnuAZ1txgnVGsH392xswb69mYNQ",
+      "link":"https://play.google.com/store/apps/details?id=com.navishaapp.sasuke_mcpe"
     }
   ],
   "Skin":
