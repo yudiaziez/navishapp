@@ -4,8 +4,8 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"FACEBOOK",
-      "select_backup_ads":"APPLOVIN",
+      "select_ads":"APPLOVIN",
+      "select_backup_ads":"FACEBOOK",
       "backup_mode":"1",
       "admob_openid":"ca-app-pub-3785215766956919/6847524233",
       "admob_nativeid":"ca-app-pub-3785215766956919/4412932589",
