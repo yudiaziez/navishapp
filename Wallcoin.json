@@ -4,9 +4,9 @@
       "select_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3785215766956919/7034075114",
-      "admob_nativeid": "ca-app-pub-3785215766956919/5089711702",
-      "admob_openid": "ca-app-pub-3785215766956919/3856521080",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
       "admob_rewardid": "ca-app-pub-3940256099942544/5224354917",
       "startappid": "201669628",
       "fan_inter": "740810869940787_814953919193148",
@@ -15,8 +15,8 @@
       "mopub_inter": "24534e1901884e398f1253216226017e",
       "mopub_reward": "920b6145fb1546cf8b5cf2ac34638bb7",
       "applovin_banner": "db4d5e8718b97d78",
-      "applovin_inter": "518cd97722c60b52",
-      "applovin_reward": "0630ab53dd5e71c1",
+      "applovin_inter": "989293564abd7a8a",
+      "applovin_reward": "a83a7cc8ab422fd3",
       "interval": 5,
       "coin_reward": 1000
     }
