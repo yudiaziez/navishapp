@@ -18,7 +18,7 @@
       "applovin_inter": "989293564abd7a8a",
       "applovin_reward": "a83a7cc8ab422fd3",
       "interval": 5,
-      "coin_reward": 1000
+      "coin_reward": 500
     }
   ],
   "More":
@@ -60,434 +60,434 @@
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-vVSCou92X90/YN1UcdEXA7I/AAAAAAAAAPQ/FjRDrQSamqMp81rnfGakjexjMuDQg3UxwCLcBGAsYHQ/s2340/a1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 2,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-n6jdtZ1zsjk/YN1UchOil3I/AAAAAAAAAPU/yDQJgr42r7oB_NppEQK0tILItZAmE0higCLcBGAsYHQ/s2340/a2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":3,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-E18y4KweWFk/YN1UcrbhJTI/AAAAAAAAAPY/PRoCOvlComMLu_QUjrMxRDeDWmjulAMugCLcBGAsYHQ/s2340/a3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":4,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-m4vKp_7oRkc/YN1Ucx5lgkI/AAAAAAAAAPc/YFHSQH3gJZEaMy3KpKyoUON4KULbXfY7gCLcBGAsYHQ/s2340/a4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":5,
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-c7h9UNC1wbA/YN1UdayyzUI/AAAAAAAAAPg/nfnrZ3zkI3gl8HcG11qp8vfaJgUwB_rEgCLcBGAsYHQ/s2340/a5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":6,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-zsnmDHAJVZ0/YN1UdrDi_ZI/AAAAAAAAAPo/0mPf8BsEgAkabpT5wec1wb4ohw49OHDxgCLcBGAsYHQ/s2340/a6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":7,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-viMs4B9qboM/YN1Udgdod2I/AAAAAAAAAPk/RXwEOBi5ykglmZs4gllzIEMVxov7MNg8gCLcBGAsYHQ/s2340/a7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":8,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-TFZJTJbMBpI/YN1UeX1bJJI/AAAAAAAAAPs/Yh27eONPeWstxcR6eX2GRVfysgnpHAeMQCLcBGAsYHQ/s2340/b1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":9,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-Y036X8hsQXY/YN1UeVeeEiI/AAAAAAAAAPw/qVqP9RWra98OS-_sBoyBrpEi4oFCMeI8QCLcBGAsYHQ/s2340/b2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":10,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-BMHEhJoIzrs/YN1UetXkMzI/AAAAAAAAAP0/d_MYvnVH4nsWwtJicvl5XRtDPvRLt5pxACLcBGAsYHQ/s2340/b3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":11,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-bkdzxvp3WOE/YN1Ue-9SGDI/AAAAAAAAAP8/qFW9SfnHiTs_JoC8LkUni0J0U8MVdFfTACLcBGAsYHQ/s2340/b4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 12,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-vfjuBxJQORI/YN1Ue9FPihI/AAAAAAAAAP4/6V3RpbCtYu4JmbDed7yX4ycMILtODMjWQCLcBGAsYHQ/s2340/b5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":13,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-0Mi_7TQxz8k/YN1UfOAK8cI/AAAAAAAAAQA/wNODCa1RLVYjb0BjZnT01V_djY_06SSCACLcBGAsYHQ/s2340/b6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":14,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-knSU86EdyUY/YN1UfhKUwfI/AAAAAAAAAQI/2qA_z0r_yesWhqZ4uc3L9TDsNxlIoS9iACLcBGAsYHQ/s2340/b7.png",
-      "coin":0
+      "coin":150
     } ,
     {
       "id":15,
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-myUgcpiccJA/YN1UfvmNMSI/AAAAAAAAAQE/WqNfI5vM6CIUkzNH7hyLZEVyOl4ug2KSQCLcBGAsYHQ/s2340/c1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":16,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-kQUaHCB6hvk/YN1Uf8DRGqI/AAAAAAAAAQM/ePPINRo1CCkCuWrU2BY27xohGQDEh98XQCLcBGAsYHQ/s2340/c2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":17,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-FfirmpKb5Vo/YN1UgcQ5ZtI/AAAAAAAAAQQ/RMDQO50XZ14FhVgiarQ69qjbwbD8a6foQCLcBGAsYHQ/s2340/c3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":18,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-CMhBa5DxbGA/YN1UgtDTPhI/AAAAAAAAAQU/2nU-GtljdoQshmnxQ1q8zCQMZ-CTXujKQCLcBGAsYHQ/s2340/c4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":19,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-COCAfKoGqzQ/YN1Ug1zlu6I/AAAAAAAAAQY/4IkOZ40h9XIYXeLwN_B_Bmu4xNTI1HsBACLcBGAsYHQ/s2340/c5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":20,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-ilvY39rpW2c/YN1UhAfMZhI/AAAAAAAAAQc/BKBicHl16tIzYkv6X58q1nU2SjkjwbxTgCLcBGAsYHQ/s2340/c6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":21,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-R3qH5sazGHk/YN1UhYFMCjI/AAAAAAAAAQg/5e_oBEF5oYAZ92gbJZdEgdwMMwwrcFIbACLcBGAsYHQ/s2340/d1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 22,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-flecOogvasE/YN1Uhimru2I/AAAAAAAAAQk/p3iG75-99QU8s1FowB1KHyMFfATZP8bGwCLcBGAsYHQ/s2340/d2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":23,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-WZrY8jvUZKk/YN1Uh1kUdEI/AAAAAAAAAQo/3BRawwtY8_4Bpqg0lS3U9d0v6np-tUWJgCLcBGAsYHQ/s2340/d3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":24,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-9GN_q1FSJnQ/YN1UiOpuYAI/AAAAAAAAAQs/2QkXi7QHncw-_KRK_ML40X_QpyqNkGC7wCLcBGAsYHQ/s2340/d4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":25,
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-byNXnVVHKGg/YN1UiDLacaI/AAAAAAAAAQw/ZICiM8amS7oU5yE_2Vq-CrY8BDi9XFPXQCLcBGAsYHQ/s2340/d5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":26,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-CoJyOZ3R64Y/YN1UiYaduII/AAAAAAAAAQ0/GVrhRAkKZu8mElgYL5DT4gTCuOR5ZIwugCLcBGAsYHQ/s2340/d6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":27,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-gYOhH7xkmsw/YN1Ui0W4NfI/AAAAAAAAAQ4/ajCDa_tU2PQVhS1uhEEzRmweJBkfcxAFwCLcBGAsYHQ/s2340/d7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":28,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-BDbCtv5ypxw/YN1Ui9lMScI/AAAAAAAAAQ8/-sAq24GPAYEWDNItiGBmrK6LV8Tl-3vZgCLcBGAsYHQ/s2340/d8.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":29,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-H5JYm5Buj50/YN1UkziNcII/AAAAAAAAARc/CdoJ26A58_kF6whOi6fuK6VKWnn-czFDQCLcBGAsYHQ/s2340/gold1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":30,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-t_dHss-o3GI/YN1UlYF82PI/AAAAAAAAARg/SPCZuRIZm0M58cMhZdghJQPH1VGcIhyzgCLcBGAsYHQ/s2340/gold2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":31,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-senkxJfPPzs/YN1Ulo4Hp1I/AAAAAAAAARo/Mzc-QfSc9lYbnlTPbPtgjA1xitR8ezk0ACLcBGAsYHQ/s2340/gold3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 32,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-ha-1mXfGQYw/YN1UlRIxUvI/AAAAAAAAARk/GaNTFB8sCDgLoEd_axBwEnWS3FE7Rb89QCLcBGAsYHQ/s2340/gold4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":33,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-DFb7Ai0cjjc/YN1UmA4goxI/AAAAAAAAARs/AIBQ5ozhQLsSilPNnbuh9gr5K12OldZMgCLcBGAsYHQ/s2340/gold5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":34,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-xwy5n5bifhk/YN1UmFIWZcI/AAAAAAAAAR0/VCnQi-fI5N4HR0kfRHYwoF8TdKtffA-twCLcBGAsYHQ/s2340/gold6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":35,
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-LqdVJT_JMfw/YN1UmB82jeI/AAAAAAAAARw/D9M90j5477EvygNaPgFUKTp2DvevW8gbQCLcBGAsYHQ/s2340/gold7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":36,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/--hjU9Ds3Ocw/YN1UmkfgN4I/AAAAAAAAAR4/OIQdjvuRMDALLMmTDTLX_GVe2gKAKt7_QCLcBGAsYHQ/s2340/gold8.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":37,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-j4kG-fOUmzk/YN1Um99zmmI/AAAAAAAAAR8/xuvr3yIF7wQVMGcxiIs620Ja-kqUK3KQACLcBGAsYHQ/s2340/gold9.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":38,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-M_ZzBG8mlyU/YN1UnMx7yDI/AAAAAAAAASA/_cdEM-rGsjgJG1iBXrmGy57g8iZADEM5ACLcBGAsYHQ/s2340/green1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":39,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-3LrHzcW8fWE/YN1UncbS4II/AAAAAAAAASE/Dgx_bAZVuo84s2230NdjtLFp4PmIUZdWACLcBGAsYHQ/s2340/green2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":40,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-e-hLlgWoj4w/YN1Unw1fh0I/AAAAAAAAASI/4_m5Z3zHne8E5AV7tUpYuArr7jwgcunhwCLcBGAsYHQ/s2340/green3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":41,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-OBVoFPzaufc/YN1Un0COk-I/AAAAAAAAASM/cJZK0Mig538erLglKnBgYGHi1AtseWB-ACLcBGAsYHQ/s2340/green4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 42,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-pA63Kjn5NNI/YN1Un3_XVRI/AAAAAAAAASQ/1Xtv4rCS-EAGNsoB-FDBqC4qcsX6Kb-ZgCLcBGAsYHQ/s2340/green5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":43,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-sLfj3satN-8/YN1Uoio0C7I/AAAAAAAAASU/9l4qDi8xflEzOd9xsdZl7lsK_7rBh_c1wCLcBGAsYHQ/s2340/green6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":44,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-8yeMuRAGBh8/YN1UpUIvnsI/AAAAAAAAASY/KA5GjHeAUgonAE5LlhdZR01BmrIga0t5gCLcBGAsYHQ/s2340/green7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":45,
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-mq9jMIoDnMs/YN1UpgZnhsI/AAAAAAAAASc/X7JHacUWT8Qjsqz__qlMs4COuARoC_ucQCLcBGAsYHQ/s2340/green8.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":46,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-LPglFVbKBJw/YN1Up_2tfpI/AAAAAAAAASg/jwiWlUj3KIwxKwk9hMUkBi4Hrz9kHfEmQCLcBGAsYHQ/s2340/green9.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":47,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-TLMez5v6jUU/YN1Uq3VBTGI/AAAAAAAAAS0/rfNdNbn9MBgyCuZoKL1D_5YuoPECFScrwCLcBGAsYHQ/s2340/pink1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":48,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-uZ1PiSSVD4k/YN1UrkcQ5aI/AAAAAAAAAS4/r6T16TyA4Cs0qcIcHotNpdBx99pcHIxPgCLcBGAsYHQ/s2340/pink2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":49,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-nKdUWjypLKE/YN1UrxdxDDI/AAAAAAAAAS8/XyWVO5EINqoTA-x6fMao7BrDQD2-McwJACLcBGAsYHQ/s2340/pink3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":50,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-H055ZS02NIk/YN1Ur-zzzeI/AAAAAAAAATA/cq0IDJ7y6LoZRIEZEmhWVHF13RV_3bsmACLcBGAsYHQ/s2340/pink4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":51,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-HSsHDegd0Ac/YN1UsXI1QhI/AAAAAAAAATE/hYuCdEDxnE0Zg2mjBJzY2HiNu-h3tU3GwCLcBGAsYHQ/s2340/pink5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 52,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-k4H3eb1v1yA/YN1Us6wMneI/AAAAAAAAATM/_kyLdDGcdsUFiaekrmkmMtk4reqxQjvggCLcBGAsYHQ/s2340/pink6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":53,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-rb3jKNA5cq4/YN1Usx1JvGI/AAAAAAAAATI/4jKkhmsFRhADjAzJ-Wg2jc6B54Y7ar5hgCLcBGAsYHQ/s2340/pink7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":54,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-TUacZXBmbH4/YN1Us6o_7BI/AAAAAAAAATQ/lA3SNtLtxyUC72pLuWoVVxKMMrHGUdtXACLcBGAsYHQ/s2340/pink8.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":55,
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-N_OPbM9mfgY/YN1UtjC-uoI/AAAAAAAAATU/tno672-L7LUJeF1OMczkezZa3vEXzOjgwCLcBGAsYHQ/s2340/pink9.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":56,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-Thu-_dtU8MA/YN1UaA-cyvI/AAAAAAAAAOs/cV4Ea8ZunfkZsLKPKWlF24T_c-i4JYw5gCLcBGAsYHQ/s2340/Red1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":57,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-LB3RP4wOwgo/YN1UaDCP6oI/AAAAAAAAAOw/Q-pnx6MkaqMPR7f76Sc9uDvUHDrSGDiEgCLcBGAsYHQ/s2340/Red2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":58,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-jQHwbh7X4vY/YN1UZ8-DhRI/AAAAAAAAAO0/zlcr97PIIIgquY9frjcFEr45ab944MvcACLcBGAsYHQ/s2340/Red3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":59,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-_C94uGXp1pg/YN1Ua5dniFI/AAAAAAAAAO4/J1scnkc_pNgrRXvuFJj63CI0ZslwKU46QCLcBGAsYHQ/s2340/Red4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":60,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-ewB7oPKuBds/YN1UbOpDLAI/AAAAAAAAAPA/BL2lfinKi8QNUXlD2a6mH3_rvDgP64iBQCLcBGAsYHQ/s2340/Red5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":61,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-PI6b8ejBo68/YN1UbAdkycI/AAAAAAAAAO8/wSST7ZPAfc4fQS88PF-4fGS8wKHBhgLfgCLcBGAsYHQ/s2340/Red6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 62,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-Ae69c0JSWNQ/YN1Ubik8-GI/AAAAAAAAAPE/655jLaMw0uUTkTtJyrt-UN32HJd9tmH1ACLcBGAsYHQ/s2340/Red7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":63,
@@ -508,224 +508,224 @@
       "name_category": "Sharingan",
       "title":"SHaringan",
       "image":"https://1.bp.blogspot.com/-aiv9AVAZ_Ro/YN1UuygjAkI/AAAAAAAAATs/xSZaeau_8sgbTshRuPc7YYdsOyUOUXwpACLcBGAsYHQ/s2340/ungu1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":66,
       "name_category": "sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-HWcOFL-8Luk/YN1UvX_uIRI/AAAAAAAAATw/Tnz6l6oIENUIwbobVDqdemIyQrljz6z0QCLcBGAsYHQ/s2340/ungu2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":67,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-tHXUKvCSFv0/YN1UvQRClnI/AAAAAAAAAT0/8MLiI-HdOFsGqQdssM_mvf9SS3OOtiN1wCLcBGAsYHQ/s2340/ungu3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":68,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-6MogqJu0ku4/YN1UviO6FVI/AAAAAAAAAT4/Z9jg-yy-h54nTIQpLOkUrb_Yf6IbvxXOwCLcBGAsYHQ/s2340/ungu4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":69,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-Mq6aj8aSZ3Y/YN1Uv3RHCGI/AAAAAAAAAT8/uErGeX_D7aYjCCaxoVf1ZtImfSy-PoSpQCLcBGAsYHQ/s2340/ungu5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":70,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-2482yLt7-A0/YN1UwHvzb9I/AAAAAAAAAUA/B2--_q-RIl8iL48tI7t2l-ZpR7UvNQiRQCLcBGAsYHQ/s2340/ungu6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":71,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-TNydqgh00b8/YN1UwOEv43I/AAAAAAAAAUE/kEURXQejXts--U-nQpDSFGe3A7WTfHHPACLcBGAsYHQ/s2340/ungu7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id": 72,
       "name_category": "Sharingan",
       "title": "Sharingan",
       "image": "https://1.bp.blogspot.com/-APVTes9M0u8/YN1UwgI2YDI/AAAAAAAAAUM/7Xw_si0TUBQID3UkFkxOanTVw88U5FT9wCLcBGAsYHQ/s2340/ungu8.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":73,
       "name_category": "Sharingan",
       "title":"Sharingan",
       "image":"https://1.bp.blogspot.com/-YXJ0-wNeHDM/YN1UwgbTeUI/AAAAAAAAAUI/9I5uUE8t8pIEf2cl11v5T6YmPLebwjxyACLcBGAsYHQ/s2340/ungu9.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":74,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-fHBl5SzT9i4/YN1Uu4eiEFI/AAAAAAAAATo/cx7U3jQpjqgx3ZwFux2tso-KIEdEwE77gCLcBGAsYHQ/s2340/sasuke15.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":75,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-mRswSRiZWEo/YN1UugjLjfI/AAAAAAAAATk/j-4GoZaSP5UbI1EKVlA79yCtL4-fRJ-IQCLcBGAsYHQ/s2340/sasuke14.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":76,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-VhtDu2z_Ktc/YN1UuQzRsCI/AAAAAAAAATg/er2GPfEXoQQsh8OXAwxPU3Mc57c1M1pkwCLcBGAsYHQ/s2340/sasuke13.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":77,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/--kMmkT2gfHw/YN1UuJh4guI/AAAAAAAAATc/XWkKJVwcf9wG2V2nPAI6LdG0wwzKoiv6gCLcBGAsYHQ/s2340/sasuke12.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":78,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-xIQQvyUMdcA/YN1Ut71eQfI/AAAAAAAAATY/K8FoI3gBFnc68TzM9HWPyvJsx5UNPIuwwCLcBGAsYHQ/s2340/sasuke11.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":79,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-DX9vecfcCxI/YN1Uq9vHcmI/AAAAAAAAASw/kgvwvqhGtdQWFJkJ_MerOuWfYA60OavcQCLcBGAsYHQ/s2340/madara4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":80,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-W3CdJmwl_-s/YN1UqpKGPiI/AAAAAAAAASs/RCozUdG8-f0bcmxtsJuhVbNC3Zw0CcfewCLcBGAsYHQ/s2340/madara3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":81,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-BMNVDsgd4sw/YN1UqXF6d6I/AAAAAAAAASo/TghK7zPbBaQriZVF2EwWUDEJznVAVYoWACLcBGAsYHQ/s2340/madara2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":82,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-Fd7vbqCMEaY/YN1UqDqEI-I/AAAAAAAAASk/78-QPETQ0I016HsmmfxWgdSlaz_yP62cQCLcBGAsYHQ/s2340/madara1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":83,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-Ffg-h2oavVU/YN1UjEbFnpI/AAAAAAAAARA/QPdR0pJU9oIiWMEOzpBhL3jbnv6QLNcuwCLcBGAsYHQ/s2340/e1.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":84,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-HITEbD67eUo/YN1UjaE9IgI/AAAAAAAAARE/VFo_3op_tkoQeBKGK16DhmWcUFc7E3mtwCLcBGAsYHQ/s2340/e2.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":85,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-f60A77Aqfr4/YN1Ujzpi7uI/AAAAAAAAARM/s8LGohBB8844kK-kFbkVlvfwgTZd7I5aACLcBGAsYHQ/s2340/e3.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":86,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-G9eNhCEla7E/YN1UjlAUDUI/AAAAAAAAARI/KgX0zrqWeNU-tG5avTViStQGcQBo8KNPQCLcBGAsYHQ/s2340/e4.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":87,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-XF1qG9uBti8/YN1Ukcd_LxI/AAAAAAAAARQ/jqZBMKsF3Cg4Rqb_-0TjhyeyxUE8LYnPgCLcBGAsYHQ/s2340/e5.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":88,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-ZOJ_tzZ5_lk/YN1UkqsRpsI/AAAAAAAAARU/D8kL6QiieEg9nOAgak_NYyMkD_-LjBMngCLcBGAsYHQ/s2340/e6.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":89,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-2zxQ9WlTvHE/YN1UkpcqLtI/AAAAAAAAARY/LLUa7AYKff0yG-axj19A3Z6doTvvO1zcACLcBGAsYHQ/s2340/e7.png",
-      "coin":0
+      "coin":150
     },
     {
       "id":90,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-iVNxbLAJ59k/YN1oMOvwLdI/AAAAAAAAAUs/aF-z_7tdT5IxIVtHAb9x68s5cuYXWbOtgCLcBGAsYHQ/s2340/kakashi2.jpg",
-      "coin":0
+      "coin":150
     },
     {
       "id":91,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-C27a5sjJ8SA/YN1oMTLvxiI/AAAAAAAAAU0/ITdcrV0HcjELrqYmI1n8k1hKpsl22FfegCLcBGAsYHQ/s2340/kakashi.jpg",
-      "coin":0
+      "coin":150
     },
     {
       "id":92,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-_VUaaMBO180/YN1oMPsTPZI/AAAAAAAAAUw/yQe1WRuk18oeZ4OCJtA5Qij9Ujx-VDK8ACLcBGAsYHQ/s2340/Madara.jpg",
-      "coin":0
+      "coin":150
     },
     {
       "id":93,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-EWsT_2bwgUY/YN1oM0R_xjI/AAAAAAAAAU4/M8qzsDl3cKgDxIqqxMBNBhKhWbVuO1dUwCLcBGAsYHQ/s2340/sasuke5.jpg",
-      "coin":0
+      "coin":150
     },
     {
       "id":94,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-oTDW6CrCknQ/YN1oNmCLdLI/AAAAAAAAAU8/Lg51dnWnzjEtYgfeyGKqlWjs524RSs8DACLcBGAsYHQ/s2340/sasukekternah.jpg",
-      "coin":0
+      "coin":150
     },
     {
       "id":95,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-oTcYU0HrEwM/YN1oNk3DIqI/AAAAAAAAAVA/96Gcq1ku7scSSTEK6_1h7k-Vv3MESH5lACLcBGAsYHQ/s2340/sauske6.jpg",
-      "coin":0
+      "coin":150
     },
     {
       "id":96,
       "name_category": "Wallpaper",
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-eQ262JfsG9w/YN1oNqSTCzI/AAAAAAAAAVE/uiJaxOKyX9c7RdwQ-AwvaYqi6pVOfXPvACLcBGAsYHQ/s2340/uchiha.jpg",
-      "coin":0
+      "coin":150
     }
   ]
 }
