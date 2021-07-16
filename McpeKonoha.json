@@ -1,7 +1,7 @@
 {
  "Ads": [
   {
-   "select_ads": "STARTAPP",
+   "select_ads": "ADMOBP",
     "select_backup_ads": "",
     "backup_mode": "0",
     "status_app": "0",
