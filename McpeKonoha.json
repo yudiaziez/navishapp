@@ -1,0 +1,156 @@
+{
+ "Ads": [
+  {
+   "select_ads": "FACEBOOK",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_bannerid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "admob_rewardid":"",
+    "interval_intertitial": 5,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "mopub_reward":"",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "applovin_reward":""
+
+  }
+  ],"Skin": [
+    {
+      "name_skin": "Sasuke_01",
+      "install": "https://lh3.googleusercontent.com/7tNszWHNlW22GSOUbSqo7hwuMQh6iSVf2p7uMvfB2_JRlRng_w2zDxAG2HA1h-a7QQSa4uDNcA-2cE9kgLnjWA"
+    },
+    {
+      "name_skin": "Sasuke_02",
+      "install": "https://lh3.googleusercontent.com/4odiY4sTbWYnOepBl4B1mXV9qX2tse_I5sY4nh1AKFFQ5AbN1JD5nJOtTwZmvgaa7Iq-CG1v2Icms7AG7Si1"
+    },
+    {
+      "name_skin": "Sasuke_03",
+      "install": "https://lh3.googleusercontent.com/IJhZpE2jNrpaCHHo_9uxsmJw2zNIZjvWCoF_ZWX6lhsEayBA1uwplvnL_RST2xsOpjYn5jwqvMD9F7ER4daF6g"
+    },
+    {
+      "name_skin": "Sasuke_04",
+      "install": "https://lh3.googleusercontent.com/aM4Iaqdiv4xM8Zxgkg7HCnUEqDzWsqwoSq77M9oT93vfjXriYDK6U9LbC2KoSxFhUK5rl152bz9cfkt5L1Aehg"
+    },
+    {
+      "name_skin": "Sasuke_05",
+      "install": "https://lh3.googleusercontent.com/mfj30ixODyfXmVMKvvz01oGEDAPTNO7-0P3a6pjlg3wlVDOLSea53PN9mKZhZKe500GSaet7kbNykpYK-yaBsQ"
+    },
+    {
+      "name_skin": "Sasuke_06",
+      "install": "https://lh3.googleusercontent.com/p-pRkNd0hZsKalAjc_pmY9QgJOo3F3F4xG3wYEbpVumIYgqdv_EH1gVeCURBgoB3bAMhLu4UmEs_bniN2oAJrA"
+    },
+    {
+      "name_skin": "Sasuke_07",
+      "install": "https://lh3.googleusercontent.com/wdBMK6T-lkFeT-XyCH36QuZjozSBhwxLzy5dbOfSvKRkjntsyjZT9uIHYCp0LZv8QgjSVuw3SzyWKL9DXjY5"
+    },
+    {
+      "name_skin": "Susano Sasuke",
+      "install": "https://lh3.googleusercontent.com/uQpyxEtr7mjcUA6MuLKw4ZxrQlg3Hda_tUXXuIrTT7FORQyPqVqBlgPU2CL29DXDZ833aEuuNNJ2bHlSGBDNrg"
+    },
+    {
+      "name_skin": "Sasuke Uchiha",
+      "install": "https://lh3.googleusercontent.com/jXTpiXz3CpCH2TW45nsViFlSsjr8Q_EFzSyzhGiSj2njLkVDF6WN9kcHVY2-VhoT9U-HZ2ZDzitBnMAWNer5"
+    },
+    {
+      "name_skin": "Uchiha Itachi",
+      "install": "https://lh3.googleusercontent.com/fKT1hckBkiiBPs3nljTGaXWbUcWkegHR4QClRxTs3T1p3iSvoHQ15iSeDE9R1-oFmr5QfnO13WLyx58SE2A4vA"
+    },
+    {
+      "name_skin": "Madara",
+      "install": "https://lh3.googleusercontent.com/XwRK-b5OqjkK2Q5C0DNEGg9I1t86I9F_t_eWaOeFlvmMeBtPIMLma9ePZIZNC5O5_vIOwU1_yRY0tXapCdby"
+    },
+    {
+      "name_skin": "Obito Akatsuki",
+      "install": "https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg"
+    },
+    {
+      "name_skin": "Obito",
+      "install": "https://lh3.googleusercontent.com/5uIQXAl7uvAwKwnseRy9Fzu-Oi3EIPGWIPYhklOITIFCAgBNRGqMWEgrvr8X2M0yvErQxgCMdyITgSRazhk3hkQ"
+    },
+    {
+      "name_skin": "Obito Rukido",
+      "install": "https://lh3.googleusercontent.com/gwQh2F_-vpnP_bmqjdapHz7XGCQHenlUkzYzvGGC0RnxDwYlxg_piLC07c_zTlVxU7gS8bY3MHoRpcOtoy2ByA"
+    },
+    {
+      "name_skin": "Sarada",
+      "install": "https://lh3.googleusercontent.com/2JIOAYpkHZN8dkxa0IxakM2-0-xCb6bcRJK1ke1NMECCPYO4YwqXmasJKS0k975E0blOXPaNZdS6MT7nP7LzElw"
+    },
+    {
+      "name_skin": "Pain",
+      "install": "https://lh3.googleusercontent.com/xGyPt8CEDlFRpNvs46I7gn8bkLhh9huJWJtXNw26i-nUpi0HOzIANB0pW6jrYsRubB2lvjcTZRC-TJ7AZk4P"
+    },
+    {
+      "name_skin": "Nagato",
+      "install": "https://lh3.googleusercontent.com/h3Lxu2JtyBZ4xTmhNxGcnOAR84P5BIKnhXfrZZSHmDevCMUWOWoxfBYxP91EXM58WKV2uRvuBEj03_YnHd98Vw"
+    },
+    {
+      "name_skin": "Konan_01",
+      "install": "https://lh3.googleusercontent.com/uO0WMNsbSTLx3pnCW0xzySGN68PI9Ii3zK7NX0gspmYSZbiQ_VgmbH77wx4BtF7MCcw5P9jrWixk7O6oyOhx6w"
+    },
+    {
+      "name_skin": "Konan_02",
+      "install": "https://lh3.googleusercontent.com/JazVcLncg83DWQ77_q_Wu6oyQgwGr-oWYL-l4Llk2NX6FT61YYcJ7YbDi2XTpOFnJm39h6Y4G4FNPvA3MwXBqeA"
+    },
+    {
+      "name_skin": "Kakuzo",
+      "install": "https://lh3.googleusercontent.com/fBVfwAQQAhxcgQRQgXGGy5nMVr4TfnokHW7kB-WHNXDNvU5DLvEuVXpRCjaJ_rqO4IaIvS_J9BDAQc2cfps6VIs"
+    },
+    {
+      "name_skin": "Kakuzu",
+      "install": "https://lh3.googleusercontent.com/rqQmFi2t_8eMWE0tKFFig6yKx_3JwRvq5_UPgF9_8ZdtJmlJou4M3Elin5pO6BuDQTwNY_GWR97GjE9TEubt0El88mrAIMjUqLlx"
+    },
+    {
+      "name_skin": "Sasori",
+      "install": "https://lh3.googleusercontent.com/61m7E1RnXkqV9jtzBRMcYpZEzeVgi09zBrBwXVteMiDeXyxTWy2xb1ybOuZBLw9Xn657NmMTp_TQ8xdNYiMl4Q"
+    },
+    {
+      "name_skin": "Orochimaru",
+      "install": "https://lh3.googleusercontent.com/4BlrR3IZtrwlqSI6PgGXKRe12NvcFL5Pi5UqMJuGyxLKTZfaD8TA_t9BUH5qC699I8-zxr_w0zMcTi2-8q_A"
+    },
+    {
+      "name_skin": "Kisame Hoshigaki",
+      "install": "https://lh3.googleusercontent.com/nzf9lprgETy_3GUI6S4L_xwhrz4-6Qn-cq6ZK0lDH4Y9ByUuesFwfd9PCLwC7rxN57CAayQWii8m_RD7QQsXug"
+    },
+    {
+      "name_skin": "Hidan",
+      "install": "https://lh3.googleusercontent.com/woK8K_GA81unmZcKatBYfdsjYstSjetcnxVZkKrrU-Jn2tNuh41EHwhE-rZVrYH5oIe75i5C6LEnC0-v9C-wDj0"
+    },
+    {
+      "name_skin": "Zetsu",
+      "install": "https://lh3.googleusercontent.com/Kd1QOxmNi_7qIq0MnkqDzvz5ZBQzpVkEoInqUIS5FoSWKPY-V-xsQ628SuHi93YHnq5ugGS_oT-DhHOwu2q5_kQ"
+    },
+    {
+      "name_skin": "Susano Itachi",
+      "install": "https://lh3.googleusercontent.com/WXlXGApeGsR5INP3iP4bfJc4evEyrGBByKoMsnKNhl2Uu07q5j7Yfv7oSZi14itGSdPfamBUqjGy99MvD3ngPrU"
+    },
+    {
+      "name_skin": "Itachi",
+      "install": "https://lh3.googleusercontent.com/clPRJNYQEuRB08IZF9v73iAtrrUprsmtuI0pfytfIook1XrDYzXq56kYoGauJb-D7GsAOQ34g97xG1g5oN_uWg"
+    },
+    {
+      "name_skin": "Itachi_01",
+      "install": "https://lh3.googleusercontent.com/qWlaJXjGDomxYT8jGo8HfjU042imBCoRqxEwT1Fdca_pIrOL-2ipMPxDXXXIp2YeAGq0aEQa_prCSJhU8tfE"
+    },
+    {
+      "name_skin": "Kakashi",
+      "install": "https://lh3.googleusercontent.com/CoDtmNNYAk2T7San9dOMTHXg9i2hBlFCH_LaMRBNQDV50vKeRRPps38tiobZWeXMXDSApIXGPINqkjvI3bydZls"
+    },
+    {
+      "name_skin": "Kakashi Akatsuki",
+      "install": "https://lh3.googleusercontent.com/RetIm_GqdmH5ktpJAtNTlYkjX9nXQfOtQWEjG1paVBudoQkeaKKkbi3T_lHXa_o_z1PHbBA66Ig-Q2wI7W95gg"
+    },
+    {
+      "name_skin": "Obito Kids",
+      "install": "https://lh3.googleusercontent.com/F1PR2m_lD3zNJ5bqE4vZ_jC4IQAKo9NnplP7d-Z63CCkYkvF-ZoCpXZCDXNmgUei5BS50n9FY5OGr5xUVE5F9pQ"
+    }
+  ]
+}
+
