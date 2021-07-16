@@ -1,7 +1,7 @@
 {
  "Ads": [
   {
-   "select_ads": "FACEBOOK",
+   "select_ads": "STARTAPP",
     "select_backup_ads": "",
     "backup_mode": "0",
     "status_app": "0",
@@ -16,10 +16,10 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "mopub_reward":"",
+    "mopub_reward":"24534e1901884e398f1253216226017e",
     "applovin_banner": "db4d5e8718b97d78",
     "applovin_inter": "518cd97722c60b52",
-    "applovin_reward":""
+    "applovin_reward":"518cd97722c60b52"
 
   }
   ],"Skin": [
