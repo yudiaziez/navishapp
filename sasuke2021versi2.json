@@ -10,11 +10,11 @@
   "admob_interstitial_id": "ca-app-pub-3785215766956919/3115576057",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
 
-  "admob_hpk_1": "home",
-  "admob_hpk_2": "technology",
-  "admob_hpk_3": "car",
-  "admob_hpk_4": "health",
-  "admob_hpk_5": "flight",
+  "admob_hpk_1": "lawyer",
+  "admob_hpk_2": "Insurance",
+  "admob_hpk_3": "loans",
+  "admob_hpk_4": "mortgage",
+  "admob_hpk_5": "donate",
 
   "fan_banner_id": "808013886772734_808014086772714",
   "fan_interstitial_id": "808013886772734_811231289784327",
