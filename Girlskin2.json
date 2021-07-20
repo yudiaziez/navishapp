@@ -27,21 +27,15 @@
   [
     {
       "id":1,
-      "title":"Grils Skin",
+      "title":"Cute Grils Skin",
       "image":"https://lh3.googleusercontent.com/azNMJ5f_g2D4Mr6QeROJtES5kT1eacNMx64ICAoQRGvdliCPXvGWGHpYMoQwzOQLg1wF_bMXq2CCzNXBR4aMYQ",
-      "link":"https://play.google.com/store/apps/details?id=com.navishaapp.skinsforgirl_aesthetic"
+      "link":"https://play.google.com/store/apps/details?id=com.navishaapp.aesthetic_minecraft_skins"
     },
     {
       "id":2,
       "title":"Anime Hero Skins Male",
       "image":"https://lh3.googleusercontent.com/3migXEJsgmv41TO83l1-eld9xZjI6HztWuppcKUkRBo6Ej78sn8UmzWYTK1UuAGz1y7PNiVCe5Zo6DYzD1L7dWY",
       "link":"https://play.google.com/store/apps/details?id=com.navishaapp.anime_male_skinsforminecraft"
-    },
-    {
-      "id":3,
-      "title":"Cute Aesthetic Girl",
-      "image":"https://www.pngitem.com/pimgs/m/506-5067042_minecraft-3d-skin-girl-hd-png-download.png",
-      "link":"https://play.google.com/store/apps/details?id=com.navishaapp.aesthetic_minecraft_skins"
     }
   ],
   "Skin":
