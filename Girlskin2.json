@@ -2,8 +2,8 @@
   "Ads":
   [
     {
-      "status_app":"0",
-      "link_redirect":"http://",
+      "status_app":"1",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.navishaapp.skinsforgirl_aesthetic",
       "select_ads":"APPLOVIN",
       "select_backup_ads":"FACEBOOK",
       "backup_mode":"1",
