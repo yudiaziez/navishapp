@@ -726,6 +726,20 @@
       "title":"Wallpaper",
       "image":"https://1.bp.blogspot.com/-eQ262JfsG9w/YN1oNqSTCzI/AAAAAAAAAVE/uiJaxOKyX9c7RdwQ-AwvaYqi6pVOfXPvACLcBGAsYHQ/s2340/uchiha.jpg",
       "coin":150
+    },
+    {
+      "id":97,
+      "name_category": "Wallpaper",
+      "title":"Wallpaper",
+      "image":"https://drive.google.com/uc?export=view&id=1FK24Eko0N8bUtTCmaYnIG-GaiQ6Y_TgW",
+      "coin":150
+    },
+    {
+      "id":98,
+      "name_category": "Wallpaper",
+      "title":"Wallpaper",
+      "image":"https://drive.google.com/uc?export=view&id=1SCdqUVO6LFoUaX98povbR2bkTlYbMYNb",
+      "coin":150
     }
   ]
 }
