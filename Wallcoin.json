@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-6052842057222293/3886458598",
