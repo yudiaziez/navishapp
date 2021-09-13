@@ -1,7 +1,7 @@
 {
-  "username": "kakaroto28",
+  "username": "ibang23",
   "album": [
-    "Anime Konoha","Konoha Anime""Wall Konoha"
+    "Cat", "Green Nature"
   ],
   "init_jumlah_photo": 100,
   "pub_id": "",
@@ -25,14 +25,13 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
+  "max_banner": "",
+  "max_interstitial": "",
 
-  "max_banner": "ae44996e2b723dcf",
-  "max_interstitial": "2838649e0b560a68",
-
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 10,
 
   "list_ads": [
-  	"MAX",
+    "MAX",
     "ADMOB",
     "UNITY",
     "STARTAPP",
