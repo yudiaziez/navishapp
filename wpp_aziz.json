@@ -16,9 +16,9 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
+  "fan_banner_id": "YOUR_PLACEMENT_ID",
+  "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+  "fan_native_id": "YOUR_PLACEMENT_ID",
 
   "startapp_app_id": "21077",
 
