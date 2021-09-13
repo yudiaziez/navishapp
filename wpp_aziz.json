@@ -20,7 +20,7 @@
   "fan_interstitial_id": "YOUR_PLACEMENT_ID",
   "fan_native_id": "YOUR_PLACEMENT_ID",
 
-  "startapp_app_id": "21077",
+  "startapp_app_id": "123456789",
 
   "unity_id": "1234567",
   "unity_banner": "Banner_Android",
@@ -31,10 +31,10 @@
   "interstitial_inverval": 4,
 
   "list_ads": [
-    "MAX",
+    "STARTAPP",
     "ADMOB",
     "UNITY",
-    "STARTAPP",
+    "MAX",
     "FAN"
   ]
 }
