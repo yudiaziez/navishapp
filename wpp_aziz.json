@@ -28,7 +28,7 @@
   "max_banner": "",
   "max_interstitial": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 4,
 
   "list_ads": [
     "MAX",
